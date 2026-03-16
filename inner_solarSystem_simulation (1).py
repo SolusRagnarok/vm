@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
-
+#hello
 # Orbital parameters for Inner Solar System
 # [January 1, 2000, 11:58:55.816 UTC -> January 1, 2000, 12:00 UTC](https://ssd.jpl.nasa.gov/txt/aprx_pos_planets.pdf)
 # Data format: Name: [a (AU), e(Eccentricity), i (deg relative to Earth equatorial plane), Ω (Longitude of Ascending Node), ω (Argument of Perihelion/periapsis ), Period (Earth Years), Color]
